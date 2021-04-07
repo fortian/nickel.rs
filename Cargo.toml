@@ -23,7 +23,7 @@ groupable = "0.2"
 lazy_static = "1.0"
 log = "0.3"
 modifier = "0.1"
-mustache = "0.9"
+mustache = { git = "https://github.com/fortian/rust-mustache.git", branch = "vr-devel" }
 plugin = "0.2"
 regex = "1.0"
 serde = "1.0"
